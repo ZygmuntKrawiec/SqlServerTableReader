@@ -1,0 +1,4 @@
+D:\VisualStudioProjects\SqlServerTableReaderApplication\SqlTableReaderProvider\bin\Release\SqlTableReaderProvider.dll
+D:\VisualStudioProjects\SqlServerTableReaderApplication\SqlTableReaderProvider\bin\Release\SqlTableReaderProvider.pdb
+D:\VisualStudioProjects\SqlServerTableReaderApplication\SqlTableReaderProvider\obj\Release\SqlTableReaderProvider.dll
+D:\VisualStudioProjects\SqlServerTableReaderApplication\SqlTableReaderProvider\obj\Release\SqlTableReaderProvider.pdb
